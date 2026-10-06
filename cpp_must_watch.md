@@ -60,7 +60,7 @@ Use this master checklist to track your progress. It covers everything from core
 ## Phase 10: OS-Level Networking & epoll
 *Focus: Socket programming, Linux asynchronous I/O, file descriptor concurrency, and readiness models.*
 - [ ] [What I Learned From Sockets: Applying the Unix Readiness Model — Filipp Gelman (2022)](https://www.youtube.com/watch?v=YmjZ_052pyY)
-- [ ] The Linux socket API explained — Chris Kanich (2020)
+- [x] The Linux socket API explained — Chris Kanich (2020)
 
 ## Phase 11: Hardware Reality, TLB, & Kernel Bypass
 *Focus: Solarflare/OpenOnload, eliminating page faults, TLB misses, and overriding OS limitations.*
